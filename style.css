@@ -6,6 +6,13 @@
 }
 
 body {
+  background-image: url('karate.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+
+body {
     color: #222;
     background: #f9f9f9;
 }
@@ -80,12 +87,12 @@ nav ul li a.active {
     box-shadow: 0 2px 5px rgba(0,0,0,0.1);
 }
 .hacker {
-background-image: url("your-image-name.jpg"); /* Replace with your image file name and extension */
+background-image: url("your-image-name.jpg");
 background-repeat: no-repeat;
 background-size: cover;
 }
 .Karatedo {
-    background-image: url("your-image-name.jpg"); /* Replace with your image file name and extension */
+    background-image: url("your-image-name.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     }
